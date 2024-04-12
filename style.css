@@ -1,0 +1,22 @@
+#color_change{
+text-align: center;
+}
+
+#big_box{
+    border: 1px solid red;
+    height: 400px;
+    width: 400px;
+    margin: auto;
+}
+
+#red_button{
+    background-color: red;
+}
+
+#blue_button{
+    background-color: blue;
+}
+
+#green_button{
+    background-color: green;
+}
